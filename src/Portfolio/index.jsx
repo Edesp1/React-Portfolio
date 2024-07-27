@@ -6,34 +6,34 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surfReport',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Weather Forecast',
+      description: 'Look at the weather in certain Oregon cities!',
+      link: "https://edesp1.github.io/Weather-Forecast/",
+      repo: "https://github.com/Edesp1/Weather-Forecast"
     },
     {
-      name: 'pastelPuzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Workday Scheduler',
+      description: 'Schedule your workday !',
+      link: "https://edesp1.github.io/Workday-Scheduler/",
+      repo: "https://github.com/Edesp1/Workday-Scheduler"
     },
     {
-      name: 'runBuddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Nasa DataBase',
+      description: 'Displays information about the world from the Nasa DataBase',
+      link: "https://austin-marlatt.github.io/nasa-data-base/",
+      repo: "https://https://github.com/Edesp1/nasa-data-base"
     },
     {
-      name: 'ledWall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Coding Quiz',
+      description: 'A quiz based off Web Development !',
+      link: "https://edesp1.github.io/challenge4/",
+      repo: "https://github.com/Edesp1/challenge4/"
     },
     {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Password Generator',
+      description: 'Makes a Random Generated password based on the awnsers you provide!',
+      link: "https://edesp1.github.io/challenge3/",
+      repo: "https://github.com/Edesp1/challenge3"
     },
   ]);
 
