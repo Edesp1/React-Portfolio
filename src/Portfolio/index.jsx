@@ -35,6 +35,12 @@ function Portfolio() {
       link: "https://edesp1.github.io/challenge3/",
       repo: "https://github.com/Edesp1/challenge3"
     },
+    {
+      name: 'Prework Study Guide',
+      description: 'My studyguide for web development',
+      link: "https://edesp1.github.io/prework-study-guide/",
+      repo: "https://github.com/Edesp1/prework-study-guide",
+    },
   ]);
 
   return (
